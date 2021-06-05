@@ -23,6 +23,7 @@ textarea{
 
 .description{
   white-space: pre-wrap;
+  text-align: left;
 }
 
 .time-block{
@@ -36,7 +37,7 @@ textarea{
   border-top: 1px solid white;;
 }
 
-.hour {
+.timeContainer {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
